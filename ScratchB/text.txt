@@ -1,5 +1,0 @@
-Hello there
-123
-Another line
-this, is, a, csv, line, 12
-this|is|pipe-delim|line|32
