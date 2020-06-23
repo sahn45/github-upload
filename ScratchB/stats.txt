@@ -1,3 +1,0 @@
-population uk: 64000000
-population france: 66400000
-population usa: 350000000
